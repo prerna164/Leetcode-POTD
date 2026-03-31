@@ -16,6 +16,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | Day | Date       | Problem | Topic  | Difficulty |
 |-----|------------|--------|--------|------------|
 | 1   | 2026-03-30 | Check if Strings Can be Made Equal | String | Medium |
+| 2   | 2026-03-31 | Lexicographically Generated Smallest String | String , Greedy | Hard |
 
 ---
 
@@ -29,6 +30,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 
 ## 🔥 Current Streak
 - Day 1 ✅
+- Day 2 ✅
 
 ---
 
