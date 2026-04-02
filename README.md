@@ -35,7 +35,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 1 ✅
 - Day 2 ✅
 - Day 3 ✅
-
+- Day 4 ✅
 ---
 
 ## 📌 Notes
