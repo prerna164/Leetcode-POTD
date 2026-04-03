@@ -8,7 +8,7 @@ Tags: Array, Stack, Sorting, Simulation
 
 -----------------------------------------------------
 
-🧠 Intuition:
+🧠 Intuition :-
 - Robots only collide if they are moving toward each other (a Right-moving robot followed by a Left-moving robot).
 - Since robots are given in arbitrary order, the first step is to process them based on their actual positions on the line.
 - A stack is perfect here: it stores robots moving Right that haven't been "resolved" yet. When we encounter a robot moving Left, it potentially collides with everything in our stack.

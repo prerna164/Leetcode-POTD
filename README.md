@@ -19,6 +19,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 2   | 2026-03-31 | Lexicographically Generated Smallest String | String , Greedy | Hard |
 | 3   | 2026-04-01 | Robot Collisions | Array, Stack, Sorting | Hard |
 | 4   | 2026-04-02 | Maximum Amount of Money Robot Can Earn | Array, Dynamic Programming, Matrix | Medium |
+| 5   | 2026-04-03 | Maximum Walls Destroyed by Robots | Array, Binary Search, Dynamic Programming, Sorting | Hard |
 
 
 ---
@@ -36,6 +37,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 2 ✅
 - Day 3 ✅
 - Day 4 ✅
+- Day 5 ✅
 ---
 
 ## 📌 Notes
