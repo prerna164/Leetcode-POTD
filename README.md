@@ -21,6 +21,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 4   | 2026-04-02 | Maximum Amount of Money Robot Can Earn | Array, Dynamic Programming, Matrix | Medium |
 | 5   | 2026-04-03 | Maximum Walls Destroyed by Robots | Array, Binary Search, Dynamic Programming, Sorting | Hard |
 | 6   | 2026-04-04 | Decode the Slanted Ciphertext | String, Simulation, Matrix | Medium |
+| 7   | 2026-04-05 | Robot Return to Origin | String, Simulation| Easy |
 
 
 ---
@@ -40,6 +41,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 4 ✅
 - Day 5 ✅
 - Day 6 ✅
+- Day 7 ✅
 ---
 
 ## 📌 Notes
