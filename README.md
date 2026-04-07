@@ -23,6 +23,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 6   | 2026-04-04 | Decode the Slanted Ciphertext | String, Simulation, Matrix | Medium |
 | 7   | 2026-04-05 | Robot Return to Origin | String, Simulation| Easy |
 | 8   | 2026-04-06 |  Walking Robot Simulation | Array, Simulation, Hash Table| Medium |
+| 9   | 2026-04-06 |  Walking Robot Simulation II |  Design, Math, Simulation| Medium |
 
 
 ---
@@ -44,6 +45,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 6 ✅
 - Day 7 ✅
 - Day 8 ✅
+- Day 9 ✅
 ---
 
 ## 📌 Notes
