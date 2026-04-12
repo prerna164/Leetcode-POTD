@@ -28,7 +28,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 11  | 2026-04-09 |  XOR After Range Multiplication Queries II |  Array, Math, Sqrt Decomposition, Prefix, Modular Arithmetic| Hard |
 | 12  | 2026-04-10 |  Minimum Distance Between Three Equal Elements I |  Array, Hash Table, Sliding Window| Easy |
 | 13  | 2026-04-11 |  Minimum Distance Between Three Equal Elements II |  Array, Hash Table, Sliding Window| Medium |
-
+| 14  | 2026-04-12 |  Minimum Distance to Type a Word Using Two Fingers |  Dynamic Programming, Memoization, String| Hard |
 ---
 
 
@@ -63,6 +63,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 11 ✅
 - Day 12 ✅
 - Day 13 ✅
+- Day 15 ✅
 
 ---
 
