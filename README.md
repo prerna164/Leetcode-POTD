@@ -30,6 +30,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 13  | 2026-04-11 |  Minimum Distance Between Three Equal Elements II |  Array, Hash Table, Sliding Window | Medium |
 | 14  | 2026-04-12 |  Minimum Distance to Type a Word Using Two Fingers |  Dynamic Programming, Memoization, String | Hard |
 | 15  | 2026-04-13 |  Minimum Distance to the Target Element |  Array, Iteration | Easy |
+| 16  | 2026-04-14 |  Minimum Total Distance Traveled |  Array, Dynamic Programming, Sorting | Hard |
+
 ---
 
 
@@ -66,6 +68,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 13 ✅
 - Day 14 ✅
 - Day 15 ✅
+- Day 16 ✅
 
 ---
 
