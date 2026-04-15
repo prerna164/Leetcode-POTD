@@ -31,6 +31,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 14  | 2026-04-12 |  Minimum Distance to Type a Word Using Two Fingers |  Dynamic Programming, Memoization, String | Hard |
 | 15  | 2026-04-13 |  Minimum Distance to the Target Element |  Array, Iteration | Easy |
 | 16  | 2026-04-14 |  Minimum Total Distance Traveled |  Array, Dynamic Programming, Sorting | Hard |
+| 17  | 2026-04-15 | Shortest Distance to Target String in a Circular Array| Array, String | Easy |
 
 ---
 
@@ -69,6 +70,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 14 ✅
 - Day 15 ✅
 - Day 16 ✅
+- Day 17 ✅
 
 ---
 
