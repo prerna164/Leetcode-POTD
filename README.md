@@ -32,6 +32,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 15  | 2026-04-13 |  Minimum Distance to the Target Element |  Array, Iteration | Easy |
 | 16  | 2026-04-14 |  Minimum Total Distance Traveled |  Array, Dynamic Programming, Sorting | Hard |
 | 17  | 2026-04-15 | Shortest Distance to Target String in a Circular Array| Array, String | Easy |
+| 18  | 2026-04-16 | Closest Equal Element Queries | Array, Hash Table, Binary Search | Medium |
 
 ---
 
@@ -71,6 +72,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 15 ✅
 - Day 16 ✅
 - Day 17 ✅
+- Day 18 ✅
 
 ---
 
