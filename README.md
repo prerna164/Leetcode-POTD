@@ -34,6 +34,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 17  | 2026-04-15 | Shortest Distance to Target String in a Circular Array| Array, String | Easy |
 | 18  | 2026-04-16 | Closest Equal Element Queries | Array, Hash Table, Binary Search | Medium |
 | 19  | 2026-04-17 | Minimum Absolute Distance Between Mirror Pairs | Array, Hash Table, Math, Two Pointers | Medium |
+| 20  | 2026-04-18 | Mirror Distance of an Integer | Math, Simulation | easy |
 
 ---
 
@@ -75,10 +76,11 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 17 ✅
 - Day 18 ✅
 - Day 19 ✅
+- Day 20 ✅
 
 ---
 
 ## 📌 Notes
-- Each solution includes intuition + approach + complexity
+- Each solution includes intuition + approach + time & space complexity
 - Focus is on consistency over perfection
 
