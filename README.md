@@ -36,6 +36,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 19  | 2026-04-17 | Minimum Absolute Distance Between Mirror Pairs | Array, Hash Table, Math, Two Pointers | Medium |
 | 20  | 2026-04-18 | Mirror Distance of an Integer | Math, Simulation | Easy |
 | 21  | 2026-04-19 | Maximum Distance Between a Pair of Values |Array, Two Pointers, Binary Search, Greedy | Medium |
+| 22  | 2026-04-20 | Two Furthest Houses With Different Colors |Array,  Greedy | Easy |
 
 ---
 
@@ -79,6 +80,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 19 ✅
 - Day 20 ✅
 - Day 21 ✅
+- Day 22 ✅
 
 
 ---
