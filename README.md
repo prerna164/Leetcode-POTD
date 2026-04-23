@@ -38,7 +38,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 21  | 2026-04-19 | Maximum Distance Between a Pair of Values |Array, Two Pointers, Binary Search, Greedy | Medium |
 | 22  | 2026-04-20 | Two Furthest Houses With Different Colors |Array,  Greedy | Easy |
 | 23  | 2026-04-21 | Minimize Hamming Distance After Swap Operations | Array, Union Find (DSU), Hash Table | Medium |
-
+| 24  | 2026-04-22 | Words Within Two Edits of Dictionary | Array, String, Simulation | Medium |
+| 25  | 2026-04-23 | Sum of Distances | Array, Hash Table, Prefix Sum | Medium |
 ---
 
 
@@ -83,6 +84,9 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 21 ✅
 - Day 22 ✅
 - Day 23 ✅
+- Day 24 ✅
+- Day 25 ✅
+
 
 
 ---
