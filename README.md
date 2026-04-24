@@ -40,6 +40,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 23  | 2026-04-21 | Minimize Hamming Distance After Swap Operations | Array, Union Find (DSU), Hash Table | Medium |
 | 24  | 2026-04-22 | Words Within Two Edits of Dictionary | Array, String, Simulation | Medium |
 | 25  | 2026-04-23 | Sum of Distances | Array, Hash Table, Prefix Sum | Medium |
+| 26  | 2026-04-24 | Furthest Point From Origin | String, Counting, Greedy | Easy |
 ---
 
 
@@ -86,6 +87,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 23 ✅
 - Day 24 ✅
 - Day 25 ✅
+- Day 26 ✅
 
 
 
