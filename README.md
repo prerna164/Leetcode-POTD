@@ -41,6 +41,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 24  | 2026-04-22 | Words Within Two Edits of Dictionary | Array, String, Simulation | Medium |
 | 25  | 2026-04-23 | Sum of Distances | Array, Hash Table, Prefix Sum | Medium |
 | 26  | 2026-04-24 | Furthest Point From Origin | String, Counting, Greedy | Easy |
+| 27  | 2026-04-25 | Maximize the Distance Between Points on a Square | Array, Binary Search, Geometry, Sorting, Greedy | Hard |
 ---
 
 
@@ -88,6 +89,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 24 ✅
 - Day 25 ✅
 - Day 26 ✅
+- Day 27 ✅
 
 
 
