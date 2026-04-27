@@ -43,6 +43,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 26  | 2026-04-24 | Furthest Point From Origin | String, Counting, Greedy | Easy |
 | 27  | 2026-04-25 | Maximize the Distance Between Points on a Square | Array, Binary Search, Geometry, Sorting, Greedy | Hard |
 | 28  | 2026-04-26 | Detect Cycles in 2D Grid | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | Medium |
+| 29  | 2026-04-27 | Check if There is a Valid Path in a Grid | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | Medium |
 ---
 
 
