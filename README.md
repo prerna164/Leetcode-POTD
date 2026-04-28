@@ -44,6 +44,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 27  | 2026-04-25 | Maximize the Distance Between Points on a Square | Array, Binary Search, Geometry, Sorting, Greedy | Hard |
 | 28  | 2026-04-26 | Detect Cycles in 2D Grid | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | Medium |
 | 29  | 2026-04-27 | Check if There is a Valid Path in a Grid | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | Medium |
+| 30  | 2026-04-28 | Minimum Operations to Make a Uni-Value Grid | Array, Math, Sorting, Matrix | Medium |
 ---
 
 
@@ -93,6 +94,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 26 ✅
 - Day 27 ✅
 - Day 28 ✅
+- Day 29 ✅
+- Day 30 ✅
 
 
 
