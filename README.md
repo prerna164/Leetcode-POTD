@@ -45,6 +45,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 28  | 2026-04-26 | Detect Cycles in 2D Grid | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | Medium |
 | 29  | 2026-04-27 | Check if There is a Valid Path in a Grid | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | Medium |
 | 30  | 2026-04-28 | Minimum Operations to Make a Uni-Value Grid | Array, Math, Sorting, Matrix | Medium |
+| 31  | 2026-04-29 |  Maximum Score From Grid Operations | Array, Dynamic Programming, Matrix, Prefix Sum | Hard |
 ---
 
 
@@ -96,6 +97,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 28 ✅
 - Day 29 ✅
 - Day 30 ✅
+- Day 31 ✅
 
 
 
