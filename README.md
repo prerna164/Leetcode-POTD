@@ -46,6 +46,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 29  | 2026-04-27 | Check if There is a Valid Path in a Grid | Array, Depth-First Search, Breadth-First Search, Union Find, Matrix | Medium |
 | 30  | 2026-04-28 | Minimum Operations to Make a Uni-Value Grid | Array, Math, Sorting, Matrix | Medium |
 | 31  | 2026-04-29 |  Maximum Score From Grid Operations | Array, Dynamic Programming, Matrix, Prefix Sum | Hard |
+| 32  | 2026-04-30 |  Maximum Score Path with Cost Constraint | Array, Dynamic Programming, Matrix, Shortest Path | Medium |
 ---
 
 
