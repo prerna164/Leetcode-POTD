@@ -47,6 +47,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 30  | 2026-04-28 | Minimum Operations to Make a Uni-Value Grid | Array, Math, Sorting, Matrix | Medium |
 | 31  | 2026-04-29 |  Maximum Score From Grid Operations | Array, Dynamic Programming, Matrix, Prefix Sum | Hard |
 | 32  | 2026-04-30 |  Maximum Score Path with Cost Constraint | Array, Dynamic Programming, Matrix, Shortest Path | Medium |
+| 33  | 2026-05-01 |  Rotate Function | Array, Math, Prefix Sum, Recurrence Relation | Medium |
 ---
 
 
@@ -99,6 +100,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 29 ✅
 - Day 30 ✅
 - Day 31 ✅
+- Day 32 ✅
+- Day 33 ✅
 
 
 
