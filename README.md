@@ -49,6 +49,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 32  | 2026-04-30 |  Maximum Score Path with Cost Constraint | Array, Dynamic Programming, Matrix, Shortest Path | Medium |
 | 33  | 2026-05-01 |  Rotate Function | Array, Math, Prefix Sum, Recurrence Relation | Medium |
 | 34  | 2026-05-03 |  Rotate String | String, String Matching | Easy |
+| 35  | 2026-05-04 |  Rotate Image | Array, Math, Matrix |  Medium |
 ---
 
 
@@ -104,6 +105,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 32 ✅
 - Day 33 ✅
 - Day 34 ✅
+- Day 35 ✅
 
 
 
