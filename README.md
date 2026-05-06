@@ -51,6 +51,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 34  | 2026-05-03 |  Rotate String | String, String Matching | Easy |
 | 35  | 2026-05-04 |  Rotate Image | Array, Math, Matrix |  Medium |
 | 36  | 2026-05-05 |  Rotate List | Linked List, Two Pointers |  Medium |
+| 37  | 2026-05-06 |  Rotate Box | Array, Two Pointers, Matrix, Simulation |  Medium |
+
 ---
 
 
@@ -108,6 +110,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 34 ✅
 - Day 35 ✅
 - Day 36 ✅
+- Day 40 ✅
 
 
 
