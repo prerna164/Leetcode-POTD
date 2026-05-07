@@ -52,6 +52,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 35  | 2026-05-04 |  Rotate Image | Array, Math, Matrix |  Medium |
 | 36  | 2026-05-05 |  Rotate List | Linked List, Two Pointers |  Medium |
 | 37  | 2026-05-06 |  Rotate Box | Array, Two Pointers, Matrix, Simulation |  Medium |
+| 38  | 2026-05-07 |  Jump Game IX | Array, Dynamic Programming, Greedy, Prefix Max, Suffix Min |  Medium |
 
 ---
 
@@ -110,7 +111,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 34 ✅
 - Day 35 ✅
 - Day 36 ✅
-- Day 40 ✅
+- Day 37 ✅
+- Day 38 ✅
 
 
 
