@@ -1,6 +1,6 @@
 /*
 Problem: Jump Game IX or Maximum Reachable Value (Jump Game Variant)
-Link: (Contextual Interview Question)
+Link: https://leetcode.com/problems/jump-game-ix/
 
 Date: 2026-05-07
 Difficulty: Medium
