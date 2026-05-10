@@ -55,6 +55,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 38  | 2026-05-07 |  Jump Game IX | Array, Dynamic Programming, Greedy, Prefix Max, Suffix Min |  Medium |
 | 39  | 2026-05-08 |  Minimum Jumps to Reach End with Prime Teleportation | Array, BFS, Sieve of Eratosthenes, Number Theory, Graph |  Medium |
 | 40  | 2026-05-09 |   Cycle Rotating a Grid | Array, Matrix, Simulation |  Medium |
+| 41  | 2026-05-10 |   Maximum Number of Jumps to Reach the Last Index | Array, DP |  Medium |
 
 
 ---
@@ -118,6 +119,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 38 ✅
 - Day 39 ✅
 - Day 40 ✅
+- Day 41 ✅
 
 
 
