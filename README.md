@@ -56,7 +56,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 39  | 2026-05-08 |  Minimum Jumps to Reach End with Prime Teleportation | Array, BFS, Sieve of Eratosthenes, Number Theory, Graph |  Medium |
 | 40  | 2026-05-09 |   Cycle Rotating a Grid | Array, Matrix, Simulation |  Medium |
 | 41  | 2026-05-10 |   Maximum Number of Jumps to Reach the Last Index | Array, DP |  Medium |
-
+| 42  | 2026-05-11 |   Separate the Digits in an Array | Array, Simulation |  Easy |
 
 ---
 
@@ -120,6 +120,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 39 ✅
 - Day 40 ✅
 - Day 41 ✅
+- Day 42 ✅
 
 
 
