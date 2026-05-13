@@ -58,6 +58,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 41  | 2026-05-10 |   Maximum Number of Jumps to Reach the Last Index | Array, DP |  Medium |
 | 42  | 2026-05-11 |   Separate the Digits in an Array | Array, Simulation |  Easy |
 | 43  | 2026-05-12 |   Minimum Initial Energy to Finish Tasks | Array, Greedy, Sorting |  Hard |
+| 44  | 2026-05-13 |   Minimum Ways to Make Array Complementary | Array, Prefix Sum, Difference Array |  Medium |
+
 
 ---
 
@@ -123,6 +125,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 41 ✅
 - Day 42 ✅
 - Day 43 ✅
+- Day 44 ✅
 
 
 
