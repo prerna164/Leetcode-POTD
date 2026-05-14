@@ -59,6 +59,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 42  | 2026-05-11 |   Separate the Digits in an Array | Array, Simulation |  Easy |
 | 43  | 2026-05-12 |   Minimum Initial Energy to Finish Tasks | Array, Greedy, Sorting |  Hard |
 | 44  | 2026-05-13 |   Minimum Ways to Make Array Complementary | Array, Prefix Sum, Difference Array |  Medium |
+| 45  | 2026-05-14 | Check if Array is Good | Array, Hash Table, Sorting, Counting |  Easy |
 
 
 ---
@@ -126,6 +127,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 42 ✅
 - Day 43 ✅
 - Day 44 ✅
+- Day 45 ✅
 
 
 
