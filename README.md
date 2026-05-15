@@ -60,6 +60,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 43  | 2026-05-12 |   Minimum Initial Energy to Finish Tasks | Array, Greedy, Sorting |  Hard |
 | 44  | 2026-05-13 |   Minimum Ways to Make Array Complementary | Array, Prefix Sum, Difference Array |  Medium |
 | 45  | 2026-05-14 | Check if Array is Good | Array, Hash Table, Sorting, Counting |  Easy |
+| 46  | 2026-05-15 | Find Minimum in Rotated Sorted Array | Array, Binary Search |  Medium |
 
 
 ---
@@ -128,6 +129,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 43 ✅
 - Day 44 ✅
 - Day 45 ✅
+- Day 46 ✅
 
 
 
