@@ -61,6 +61,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 44  | 2026-05-13 |   Minimum Ways to Make Array Complementary | Array, Prefix Sum, Difference Array |  Medium |
 | 45  | 2026-05-14 | Check if Array is Good | Array, Hash Table, Sorting, Counting |  Easy |
 | 46  | 2026-05-15 | Find Minimum in Rotated Sorted Array | Array, Binary Search |  Medium |
+| 47  | 2026-05-16 | Find Minimum in Rotated Sorted Array II | Array, Binary Search |  Hard |
 
 
 ---
@@ -130,7 +131,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 44 ✅
 - Day 45 ✅
 - Day 46 ✅
-
+- Day 47 ✅
 
 
 ---
