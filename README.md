@@ -62,6 +62,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 45  | 2026-05-14 | Check if Array is Good | Array, Hash Table, Sorting, Counting |  Easy |
 | 46  | 2026-05-15 | Find Minimum in Rotated Sorted Array | Array, Binary Search |  Medium |
 | 47  | 2026-05-16 | Find Minimum in Rotated Sorted Array II | Array, Binary Search |  Hard |
+| 48  | 2026-05-17 | Jump Game III | Array, Depth-First Search (DFS), Breadth-First Search (BFS) | Medium |
 
 
 ---
@@ -132,6 +133,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 45 ✅
 - Day 46 ✅
 - Day 47 ✅
+- Day 48 ✅
+
 
 
 ---
