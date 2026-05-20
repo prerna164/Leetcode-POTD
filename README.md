@@ -65,6 +65,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 48  | 2026-05-17 | Jump Game III | Array, Depth-First Search (DFS), Breadth-First Search (BFS) | Medium |
 | 49  | 2026-05-18 | Jump Game IV | Array, Hash Table, Breadth-First Search (BFS) | Hard |
 | 50  | 2026-05-19 | Minimum Common Value | Array, Two Pointers, Binary Search | Easy |
+| 51  | 2026-05-20 | Find the Prefix Common Array of Two Arrays | Array, Hash Table, Frequency Counting | Medium |
 
 
 ---
@@ -138,6 +139,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 48 ✅
 - Day 49 ✅
 - Day 50 ✅
+- Day 51 ✅
 
 
 
