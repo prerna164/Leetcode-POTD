@@ -68,6 +68,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 51  | 2026-05-20 | Find the Prefix Common Array of Two Arrays | Array, Hash Table, Frequency Counting | Medium |
 | 52  | 2026-05-21 | Find the Length of the Longest Common Prefix | Array, Hash Table, Trie, String, Math | Medium |
 | 53  | 2026-05-22 | Search in Rotated Sorted Array | Array, Binary Search | Medium |
+| 54  | 2026-05-23 | Check if Array Is Sorted and Rotated | Array | Easy |
 
 
 ---
@@ -144,6 +145,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 51 ✅
 - Day 52 ✅
 - Day 53 ✅
+- Day 54 ✅
 
 
 
