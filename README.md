@@ -69,7 +69,8 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 52  | 2026-05-21 | Find the Length of the Longest Common Prefix | Array, Hash Table, Trie, String, Math | Medium |
 | 53  | 2026-05-22 | Search in Rotated Sorted Array | Array, Binary Search | Medium |
 | 54  | 2026-05-23 | Check if Array Is Sorted and Rotated | Array | Easy |
-| 55  | 2026-05-24 |  Jump Game V | Array, Dynamic Programming, Memoization, Graph | Hard |
+| 55  | 2026-05-24 | Jump Game V | Array, Dynamic Programming, Memoization, Graph | Hard |
+| 56  | 2026-05-25 | Jump Game VII | String, Dynamic Programming, Breadth-First Search, Sliding Window | Medium |
 
 
 ---
@@ -148,6 +149,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 53 ✅
 - Day 54 ✅
 - Day 55 ✅
+- Day 56 ✅
 
 
 
