@@ -73,6 +73,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 56  | 2026-05-25 | Jump Game VII | String, Dynamic Programming, Breadth-First Search, Sliding Window | Medium |
 | 57  | 2026-05-26 | Count the number of special characters I | Hash Table, String, Bit Manipulation | Easy |
 | 58  | 2026-05-27 | Count the number of special characters II | String, Hash Table, Array | Medium |
+| 59  | 2026-05-28 | Longest Common Suffix Queries | Array, String, Trie, Memory Optimization | Hard |
 
 
 ---
@@ -154,6 +155,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 56 ✅
 - Day 57 ✅
 - Day 58 ✅
+- Day 59 ✅
 
 
 
