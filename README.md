@@ -77,6 +77,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 60  | 2026-05-29 | Minimum Element After Replacement With Digit Sum | Array, Math, Simulation | Easy |
 | 61  | 2026-05-30 | Block Placement Queries |  Array, Segment Tree, Binary Search, Ordered Set | Hard |
 | 62  | 2026-05-31 | Asteroids Destroyed | Array, Greedy, Sorting | Medium |
+| 63  | 2026-06-01 |  Minimum Cost of Buying Candies With Discount | Array, Greedy, Sorting | Easy |
 
 
 ---
@@ -162,6 +163,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 60 ✅
 - Day 61 ✅
 - Day 62 ✅
+- Day 63 ✅
 
 
 
