@@ -78,6 +78,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 | 61  | 2026-05-30 | Block Placement Queries |  Array, Segment Tree, Binary Search, Ordered Set | Hard |
 | 62  | 2026-05-31 | Asteroids Destroyed | Array, Greedy, Sorting | Medium |
 | 63  | 2026-06-01 |  Minimum Cost of Buying Candies With Discount | Array, Greedy, Sorting | Easy |
+| 64  | 2026-06-02 |  Earliest Finish Time for Land and Water Rides I | Array, Enumeration, Simulation, Greedy | Easy |
 
 
 ---
@@ -164,6 +165,7 @@ I solve LeetCode Problem of the Day daily and document my approach.
 - Day 61 ✅
 - Day 62 ✅
 - Day 63 ✅
+- Day 64 ✅
 
 
 
