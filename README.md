@@ -35,8 +35,8 @@ The objective is simple:
 
 | Metric | Value |
 |---------|--------|
-| 🔥 Current Streak | 64 Days |
-| ✅ Problems Solved | 64 |
+| 🔥 Current Streak | 65 Days |
+| ✅ Problems Solved | 65 |
 | 📅 Started On | March 30, 2026 |
 | 💻 Primary Language | C++ |
 | 🎯 Goal | 365 Consecutive Days |
@@ -48,7 +48,7 @@ The objective is simple:
 | Difficulty | Count |
 |------------|--------|
 | 🟢 Easy | 16 |
-| 🟡 Medium | 36 |
+| 🟡 Medium | 37 |
 | 🔴 Hard | 12 |
 
 ```text
@@ -64,7 +64,7 @@ The objective is simple:
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-64 / 365 Days Completed
+65 / 365 Days Completed
 ```
 ## 🔥 Current Streak
 
@@ -155,7 +155,7 @@ The objective is simple:
 | First 10 Problems | ✅ |
 | First 25 Problems | ✅ |
 | First 50 Problems | ✅ |
-| First 64 Problems | ✅ |
+| First 65 Problems | ✅ |
 | First 100 Problems | 🚀 In Progress |
 | First 150 Problems | 🎯 Target |
 | First 200 Problems | 🎯 Target |
@@ -166,7 +166,7 @@ The objective is simple:
 
 - [x] Complete First 25 POTD
 - [x] Complete First 50 POTD
-- [x] Reach 64 Day Streak
+- [x] Reach 65 Day Streak
 - [ ] Reach 100 Problems
 - [ ] Reach 150 Problems
 - [ ] Reach 200 Problems
@@ -179,7 +179,6 @@ The objective is simple:
 Every solution contains:
 
 - Problem Intuition
-- Brute Force Approach
 - Optimal Approach
 - Time Complexity Analysis
 - Space Complexity Analysis
@@ -229,7 +228,7 @@ Every solution contains:
 
 ## 📊 Repository Highlights
 
-✔ 64 Daily Problems Solved
+✔ 65 Daily Problems Solved
 
 ✔ Easy → Medium → Hard Coverage
 
