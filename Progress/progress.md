@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 65 Days              |
-| ✅ Problems Solved | 65                   |
+| 🔥 Current Streak | 66 Days              |
+| ✅ Problems Solved | 66                   |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-65 / 365 Days Completed
+66 / 365 Days Completed
 Progress: 17.5%
 ```
 
@@ -93,6 +93,7 @@ Progress: 17.5%
 | 63 | 2026-06-01 | Minimum Cost of Buying Candies With Discount | Array, Greedy, Sorting | Easy |
 | 64 | 2026-06-02 | Earliest Finish Time for Land and Water Rides I | Array, Enumeration, Simulation, Greedy | Easy |
 | 65 | 2026-06-03 | Earliest Finish Time for Land and Water Rides II | Array, Greedy, Optimization | Medium |
+| 66 | 2026-06-04 | Total Waviness of Numbers in Range I | Array, Simulation, Digit Manipulation, Enumeration | Medium |
 
 ---
 
@@ -112,7 +113,7 @@ Progress: 17.5%
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 16    |
-| 🟡 Medium  | 37    |
+| 🟡 Medium  | 38    |
 | 🔴 Hard    | 12    |
 
 ---
