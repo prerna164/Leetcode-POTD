@@ -5,7 +5,7 @@
 | Metric            | Value                |
 | ----------------- | -------------------- |
 | 🔥 Current Streak | 66 Days              |
-| ✅ Problems Solved | 66                   |
+| ✅ Problems Solved | 68                   |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,8 +18,8 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-66 / 365 Days Completed
-Progress: 17.5%
+68 / 365 Days Completed
+
 ```
 
 ---
@@ -94,6 +94,8 @@ Progress: 17.5%
 | 64 | 2026-06-02 | Earliest Finish Time for Land and Water Rides I | Array, Enumeration, Simulation, Greedy | Easy |
 | 65 | 2026-06-03 | Earliest Finish Time for Land and Water Rides II | Array, Greedy, Optimization | Medium |
 | 66 | 2026-06-04 | Total Waviness of Numbers in Range I | Array, Simulation, Digit Manipulation, Enumeration | Medium |
+| 67 | 2026-06-05 | Total Waviness in a Large Range II |  Dynamic Programming, Digit DP, Math | Hard |
+| 68 | 2026-06-06 | Left and Right Sum Differences |  Array, Prefix Sum, Simulation | Easy |
 
 ---
 
@@ -112,9 +114,9 @@ Progress: 17.5%
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 16    |
+| 🟢 Easy    | 17    |
 | 🟡 Medium  | 38    |
-| 🔴 Hard    | 12    |
+| 🔴 Hard    | 13    |
 
 ---
 
