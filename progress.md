@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 69 Days              |
-| ✅ Problems Solved | 69                   |
+| 🔥 Current Streak | 70 Days              |
+| ✅ Problems Solved | 70                   |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-69 / 365 Days Completed
+70 / 365 Days Completed
 
 ```
 
@@ -97,6 +97,7 @@
 | 67 | 2026-06-05 | Total Waviness in a Large Range II |  Dynamic Programming, Digit DP, Math | Hard |
 | 68 | 2026-06-06 | Left and Right Sum Differences |  Array, Prefix Sum, Simulation | Easy |
 | 69 | 2026-06-07 | Create Binary Tree From Descriptions |  Hash Table, Tree, Binary Tree | Medium |
+| 70 | 2026-06-08 | Partition Array According to Given Pivot | Array, Two Pointers, Simulation | Medium |
 
 ---
 
@@ -116,7 +117,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 17    |
-| 🟡 Medium  | 39    |
+| 🟡 Medium  | 40    |
 | 🔴 Hard    | 13    |
 
 ---
