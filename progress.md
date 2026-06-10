@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 71 Days              |
-| ✅ Problems Solved | 71                   |
+| 🔥 Current Streak | 72 Days              |
+| ✅ Problems Solved | 72                   |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-71 / 365 Days Completed
+72 / 365 Days Completed
 
 ```
 
@@ -99,6 +99,8 @@
 | 69 | 2026-06-07 | Create Binary Tree From Descriptions |  Hash Table, Tree, Binary Tree | Medium |
 | 70 | 2026-06-08 | Partition Array According to Given Pivot | Array, Two Pointers, Simulation | Medium |
 | 71 | 2026-06-09 | Maximum Total Subarray Value I | Array, Greedy | Medium |
+| 72 | 2026-06-10 | Maximum Total Subarray Value II | Sparse Table, Heap (Priority Queue), Greedy, Range Queries | Hard |
+
 ---
 
 ## 🏆 Milestones
@@ -111,14 +113,14 @@
 * 🎯 Long-Term Goal: 365 Consecutive Days
 
 ---
-
+ 
 ## 📚 Difficulty Breakdown
 
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 17    |
 | 🟡 Medium  | 41    |
-| 🔴 Hard    | 13    |
+| 🔴 Hard    | 14    |
 
 ---
 
