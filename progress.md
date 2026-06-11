@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 72 Days              |
-| ✅ Problems Solved | 72                   |
+| 🔥 Current Streak | 73 Days              |
+| ✅ Problems Solved | 73                   |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-72 / 365 Days Completed
+73 / 365 Days Completed
 
 ```
 
@@ -100,6 +100,7 @@
 | 70 | 2026-06-08 | Partition Array According to Given Pivot | Array, Two Pointers, Simulation | Medium |
 | 71 | 2026-06-09 | Maximum Total Subarray Value I | Array, Greedy | Medium |
 | 72 | 2026-06-10 | Maximum Total Subarray Value II | Sparse Table, Heap (Priority Queue), Greedy, Range Queries | Hard |
+| 73 | 2026-06-11 | Number of Ways to Assign Edge Weights I | Tree, Depth First Search, Combinatorics, Math | Medium |
 
 ---
 
@@ -119,7 +120,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 17    |
-| 🟡 Medium  | 41    |
+| 🟡 Medium  | 42    |
 | 🔴 Hard    | 14    |
 
 ---
