@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 73 Days              |
-| ✅ Problems Solved | 73                   |
+| 🔥 Current Streak | 75 Days              |
+| ✅ Problems Solved | 75                   |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-73 / 365 Days Completed
+75 / 365 Days Completed
 
 ```
 
@@ -101,6 +101,7 @@
 | 71 | 2026-06-09 | Maximum Total Subarray Value I | Array, Greedy | Medium |
 | 72 | 2026-06-10 | Maximum Total Subarray Value II | Sparse Table, Heap (Priority Queue), Greedy, Range Queries | Hard |
 | 73 | 2026-06-11 | Number of Ways to Assign Edge Weights I | Tree, Depth First Search, Combinatorics, Math | Medium |
+| 74 | 2026-06-12 | Number of Ways to Assign Edge Weights II | Tree, Lowest Common Ancestor, Binary Lifting, Combinatorics, Math, Vector Optimization | Hard |
 
 ---
 
@@ -119,9 +120,9 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 17    |
+| 🟢 Easy    | 18    |
 | 🟡 Medium  | 42    |
-| 🔴 Hard    | 14    |
+| 🔴 Hard    | 15    |
 
 ---
 
