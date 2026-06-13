@@ -102,6 +102,7 @@
 | 72 | 2026-06-10 | Maximum Total Subarray Value II | Sparse Table, Heap (Priority Queue), Greedy, Range Queries | Hard |
 | 73 | 2026-06-11 | Number of Ways to Assign Edge Weights I | Tree, Depth First Search, Combinatorics, Math | Medium |
 | 74 | 2026-06-12 | Number of Ways to Assign Edge Weights II | Tree, Lowest Common Ancestor, Binary Lifting, Combinatorics, Math, Vector Optimization | Hard |
+| 75 | 2026-06-13 | Word Weights Parity Mapping |  String, Array, Math, Simulation | Easy |
 
 ---
 
