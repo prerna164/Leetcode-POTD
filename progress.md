@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 75 Days              |
-| ✅ Problems Solved | 75                   |
+| 🔥 Current Streak | 76 Days              |
+| ✅ Problems Solved | 76                   |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-75 / 365 Days Completed
+76 / 365 Days Completed
 
 ```
 
@@ -103,6 +103,7 @@
 | 73 | 2026-06-11 | Number of Ways to Assign Edge Weights I | Tree, Depth First Search, Combinatorics, Math | Medium |
 | 74 | 2026-06-12 | Number of Ways to Assign Edge Weights II | Tree, Lowest Common Ancestor, Binary Lifting, Combinatorics, Math, Vector Optimization | Hard |
 | 75 | 2026-06-13 | Word Weights Parity Mapping |  String, Array, Math, Simulation | Easy |
+| 76 | 2026-06-17 | Process String with  Special Operations II | String, Simulation, Vector Optimization, Math | Hard |
 
 ---
 
@@ -123,7 +124,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 18    |
 | 🟡 Medium  | 42    |
-| 🔴 Hard    | 15    |
+| 🔴 Hard    | 16    |
 
 ---
 
