@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 78 Days              |
-| ✅ Problems Solved | 78                  |
+| 🔥 Current Streak | 79 Days              |
+| ✅ Problems Solved | 79                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-78 / 365 Days Completed
+79 / 365 Days Completed
 
 ```
 
@@ -106,6 +106,7 @@
 | 76 | 2026-06-17 | Process String with  Special Operations II | String, Simulation, Vector Optimization, Math | Hard |
 | 77 | 2026-06-18 | Angle Between Hands of a Clock |  Math, Simulation, Geometry | Medium |
 | 78 | 2026-06-19 | Find the Highest Altitude |  Array, Prefix Sum, Simulation | Easy |
+| 79 | 2026-06-20 | Maximum Building Height |  Array, Sorting, Greedy, Math | Hard |
 
 ---
 
@@ -126,7 +127,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 19    |
 | 🟡 Medium  | 43    |
-| 🔴 Hard    | 16    |
+| 🔴 Hard    | 17    |
 
 ---
 
