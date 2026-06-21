@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 79 Days              |
-| ✅ Problems Solved | 79                  |
+| 🔥 Current Streak | 80 Days              |
+| ✅ Problems Solved | 80                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-79 / 365 Days Completed
+80 / 365 Days Completed
 
 ```
 
@@ -107,6 +107,7 @@
 | 77 | 2026-06-18 | Angle Between Hands of a Clock |  Math, Simulation, Geometry | Medium |
 | 78 | 2026-06-19 | Find the Highest Altitude |  Array, Prefix Sum, Simulation | Easy |
 | 79 | 2026-06-20 | Maximum Building Height |  Array, Sorting, Greedy, Math | Hard |
+| 80 | 2026-06-21 | Maximum Ice Cream Bars | Array, Greedy, Counting Sort, Sorting | Medium |
 
 ---
 
@@ -126,7 +127,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 19    |
-| 🟡 Medium  | 43    |
+| 🟡 Medium  | 44    |
 | 🔴 Hard    | 17    |
 
 ---
