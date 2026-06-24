@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 82 Days              |
-| ✅ Problems Solved | 82                  |
+| 🔥 Current Streak | 83 Days              |
+| ✅ Problems Solved | 83                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-82 / 365 Days Completed
+83 / 365 Days Completed
 
 ```
 
@@ -110,6 +110,7 @@
 | 80 | 2026-06-21 | Maximum Ice Cream Bars | Array, Greedy, Counting Sort, Sorting | Medium |
 | 81 | 2026-06-22 | Maximum Number of Balloons |  Hash Table, String, Counting | Easy |
 | 82 | 2026-06-23 | Number of ZigZag Arrays I | Dynamic Programming, Prefix Sum, Math | Hard |
+| 83 | 2026-06-24 | Number of ZigZag Arrays II | Dynamic Programming, Matrix Exponentiation, Math | Hard |
 
 ---
 
@@ -130,7 +131,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 20    |
 | 🟡 Medium  | 44    |
-| 🔴 Hard    | 18    |
+| 🔴 Hard    | 19    |
 
 ---
 
