@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 83 Days              |
-| ✅ Problems Solved | 83                  |
+| 🔥 Current Streak | 84 Days              |
+| ✅ Problems Solved | 84                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-83 / 365 Days Completed
+84 / 365 Days Completed
 
 ```
 
@@ -111,6 +111,7 @@
 | 81 | 2026-06-22 | Maximum Number of Balloons |  Hash Table, String, Counting | Easy |
 | 82 | 2026-06-23 | Number of ZigZag Arrays I | Dynamic Programming, Prefix Sum, Math | Hard |
 | 83 | 2026-06-24 | Number of ZigZag Arrays II | Dynamic Programming, Matrix Exponentiation, Math | Hard |
+| 84 | 2026-06-25 | Count Subarrays Where Target is the Majority Element I | Array, Prefix Sum, Hash Table, Binary Indexed Tree / Fenwick Tree | Medium |
 
 ---
 
@@ -130,7 +131,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 20    |
-| 🟡 Medium  | 44    |
+| 🟡 Medium  | 45    |
 | 🔴 Hard    | 19    |
 
 ---
