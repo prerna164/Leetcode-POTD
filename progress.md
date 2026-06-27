@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 85 Days              |
-| ✅ Problems Solved | 85                  |
+| 🔥 Current Streak | 86 Days              |
+| ✅ Problems Solved | 86                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-85 / 365 Days Completed
+86 / 365 Days Completed
 
 ```
 
@@ -113,7 +113,7 @@
 | 83 | 2026-06-24 | Number of ZigZag Arrays II | Dynamic Programming, Matrix Exponentiation, Math | Hard |
 | 84 | 2026-06-25 | Count Subarrays Where Target is the Majority Element I | Array, Prefix Sum, Hash Table, Binary Indexed Tree / Fenwick Tree | Medium |
 | 85 | 2026-06-26 | Count Subarrays with Majority Element II | Array, Prefix Sum, Binary Indexed Tree / Fenwick Tree | Hard |
-
+| 86 | 2026-06-27 | Find the Maximum Number of Elements in Subset | Array, Hash Table, Math, Sorting | Medium |
 ---
 
 ## 🏆 Milestones
@@ -132,7 +132,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 20    |
-| 🟡 Medium  | 45    |
+| 🟡 Medium  | 46    |
 | 🔴 Hard    | 20    |
 
 ---
