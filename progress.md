@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 87 Days              |
-| ✅ Problems Solved | 87                  |
+| 🔥 Current Streak | 88 Days              |
+| ✅ Problems Solved | 88                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-87 / 365 Days Completed
+88 / 365 Days Completed
 
 ```
 
@@ -115,6 +115,7 @@
 | 85 | 2026-06-26 | Count Subarrays with Majority Element II | Array, Prefix Sum, Binary Indexed Tree / Fenwick Tree | Hard |
 | 86 | 2026-06-27 | Find the Maximum Number of Elements in Subset | Array, Hash Table, Math, Sorting | Medium |
 | 87 | 2026-06-28 | Maximum Element After Decrementing and Rearranging | Array, Greedy, Sorting | Medium |
+| 88 | 2026-06-29 | Number of Strings That Appear as Substrings in Word | String, Simulation | Easy |
 ---
 
 ## 🏆 Milestones
@@ -132,7 +133,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 20    |
+| 🟢 Easy    | 21    |
 | 🟡 Medium  | 47    |
 | 🔴 Hard    | 20    |
 
