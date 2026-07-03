@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 90 Days              |
-| ✅ Problems Solved | 90                  |
+| 🔥 Current Streak | 92 Days              |
+| ✅ Problems Solved | 92                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-90 / 365 Days Completed
+92 / 365 Days Completed
 
 ```
 
@@ -118,6 +118,8 @@
 | 88 | 2026-06-29 | Number of Strings That Appear as Substrings in Word | String, Simulation | Easy |
 | 90 | 2026-07-01 | Find the Safest Path in a Grid | Array, Breadth-First Search (BFS), Minimum Spanning Tree / Priority Queue, Binary Search | Medium |
 | 91 | 2026-07-02 | Find a Safe Walk Through a Grid | Array, Breadth-First Search (BFS), Matrix, Shortest Path, 0-1 BFS | Medium |
+| 92 | 2026-07-03 | Network Recovery Pathways | Graph, Directed Acyclic Graph (DAG), Binary Search, Dynamic Programming, Topological Sort | Hard |
+
 ---
 
 ## 🏆 Milestones
@@ -136,8 +138,8 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 21    |
-| 🟡 Medium  | 49    |
-| 🔴 Hard    | 20    |
+| 🟡 Medium  | 50    |
+| 🔴 Hard    | 21    |
 
 ---
 
