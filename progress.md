@@ -117,6 +117,7 @@
 | 87 | 2026-06-28 | Maximum Element After Decrementing and Rearranging | Array, Greedy, Sorting | Medium |
 | 88 | 2026-06-29 | Number of Strings That Appear as Substrings in Word | String, Simulation | Easy |
 | 90 | 2026-07-01 | Find the Safest Path in a Grid | Array, Breadth-First Search (BFS), Minimum Spanning Tree / Priority Queue, Binary Search | Medium |
+| 91 | 2026-07-02 | Find a Safe Walk Through a Grid | Array, Breadth-First Search (BFS), Matrix, Shortest Path, 0-1 BFS | Medium |
 ---
 
 ## 🏆 Milestones

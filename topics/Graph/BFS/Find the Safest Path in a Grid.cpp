@@ -1,6 +1,6 @@
 /*
 Problem: Find the Safest Path in a Grid
-Link: https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2026-07-01
+Link: Maximum Safeness Factor Path Matrix Optimization
 
 Date: 2026-07-01
 Difficulty: Medium-Hard
