@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 94 Days              |
-| ✅ Problems Solved | 94                  |
+| 🔥 Current Streak | 95 Days              |
+| ✅ Problems Solved | 95                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-94 / 365 Days Completed
+95 / 365 Days Completed
 
 ```
 
@@ -121,6 +121,7 @@
 | 92 | 2026-07-03 | Network Recovery Pathways | Graph, Directed Acyclic Graph (DAG), Binary Search, Dynamic Programming, Topological Sort | Hard |
 | 93 | 2026-07-04 | Minimum Score of a Path Between Two Cities | Graph, Breadth-First Search (BFS), Depth-First Search (DFS), Union Find | Medium |
 | 94 | 2026-07-05 | Number of Paths with Max Score | Dynamic Programming, Matrix | Hard |
+| 95 | 2026-07-06 | Remove Covered Intervals | Array, Sorting, Greedy | Medium |
 
 ---
 
@@ -140,7 +141,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 21    |
-| 🟡 Medium  | 51    |
+| 🟡 Medium  | 52    |
 | 🔴 Hard    | 22    |
 
 ---
