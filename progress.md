@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 93 Days              |
-| ✅ Problems Solved | 93                  |
+| 🔥 Current Streak | 94 Days              |
+| ✅ Problems Solved | 94                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-93 / 365 Days Completed
+94 / 365 Days Completed
 
 ```
 
@@ -120,6 +120,7 @@
 | 91 | 2026-07-02 | Find a Safe Walk Through a Grid | Array, Breadth-First Search (BFS), Matrix, Shortest Path, 0-1 BFS | Medium |
 | 92 | 2026-07-03 | Network Recovery Pathways | Graph, Directed Acyclic Graph (DAG), Binary Search, Dynamic Programming, Topological Sort | Hard |
 | 93 | 2026-07-04 | Minimum Score of a Path Between Two Cities | Graph, Breadth-First Search (BFS), Depth-First Search (DFS), Union Find | Medium |
+| 94 | 2026-07-05 | Number of Paths with Max Score | Dynamic Programming, Matrix | Hard |
 
 ---
 
@@ -140,7 +141,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 21    |
 | 🟡 Medium  | 51    |
-| 🔴 Hard    | 21    |
+| 🔴 Hard    | 22    |
 
 ---
 
