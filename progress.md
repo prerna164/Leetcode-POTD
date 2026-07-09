@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 95 Days              |
-| ✅ Problems Solved | 95                  |
+| 🔥 Current Streak | 96 Days              |
+| ✅ Problems Solved | 96                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-95 / 365 Days Completed
+96 / 365 Days Completed
 
 ```
 
@@ -122,6 +122,7 @@
 | 93 | 2026-07-04 | Minimum Score of a Path Between Two Cities | Graph, Breadth-First Search (BFS), Depth-First Search (DFS), Union Find | Medium |
 | 94 | 2026-07-05 | Number of Paths with Max Score | Dynamic Programming, Matrix | Hard |
 | 95 | 2026-07-06 | Remove Covered Intervals | Array, Sorting, Greedy | Medium |
+| 96 | 2026-07-07 | Concatenate Non-Zero Digits and Multiply by Sum | Math, Simulation, String | Easy |
 
 ---
 
@@ -140,7 +141,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 21    |
+| 🟢 Easy    | 22    |
 | 🟡 Medium  | 52    |
 | 🔴 Hard    | 22    |
 
