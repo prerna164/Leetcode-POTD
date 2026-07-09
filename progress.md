@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 96 Days              |
-| ✅ Problems Solved | 96                  |
+| 🔥 Current Streak | 97 Days              |
+| ✅ Problems Solved | 97                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-96 / 365 Days Completed
+97 / 365 Days Completed
 
 ```
 
@@ -123,6 +123,7 @@
 | 94 | 2026-07-05 | Number of Paths with Max Score | Dynamic Programming, Matrix | Hard |
 | 95 | 2026-07-06 | Remove Covered Intervals | Array, Sorting, Greedy | Medium |
 | 96 | 2026-07-07 | Concatenate Non-Zero Digits and Multiply by Sum | Math, Simulation, String | Easy |
+| 97 | 2026-07-08 | Concatenate Non-Zero Digits and Multiply by Sum II | String, Prefix Sum, Math, Modular Arithmetic | Medium |
 
 ---
 
@@ -142,7 +143,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 22    |
-| 🟡 Medium  | 52    |
+| 🟡 Medium  | 53    |
 | 🔴 Hard    | 22    |
 
 ---
