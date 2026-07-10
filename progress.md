@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 98 Days              |
-| ✅ Problems Solved | 98                  |
+| 🔥 Current Streak | 99 Days              |
+| ✅ Problems Solved | 99                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-98 / 365 Days Completed
+99 / 365 Days Completed
 
 ```
 
@@ -125,6 +125,7 @@
 | 96 | 2026-07-07 | Concatenate Non-Zero Digits and Multiply by Sum | Math, Simulation, String | Easy |
 | 97 | 2026-07-08 | Concatenate Non-Zero Digits and Multiply by Sum II | String, Prefix Sum, Math, Modular Arithmetic | Medium |
 | 98 | 2026-07-09 | Path Existence Queries in a Difference-Bounded Graph |  Array, Graph, Two Pointers, Disjoint Set Union (DSU) | Medium |
+| 99 | 2026-07-10 | Path Existence Queries in a  Graph II | Array, Binary Lifting, Sparse Table, Binary Search, Graph | Hard |
 
 ---
 
@@ -145,7 +146,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 22    |
 | 🟡 Medium  | 54    |
-| 🔴 Hard    | 22    |
+| 🔴 Hard    | 23    |
 
 ---
 
