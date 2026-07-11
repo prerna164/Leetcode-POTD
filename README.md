@@ -35,8 +35,8 @@ The objective is simple:
 
 | Metric | Value |
 |---------|--------|
-| 🔥 Current Streak | 99 Days |
-| ✅ Problems Solved | 99 |
+| 🔥 Current Streak | 100 Days |
+| ✅ Problems Solved | 100 |
 | 📅 Started On | March 30, 2026 |
 | 💻 Primary Language | C++ |
 | 🎯 Goal | 365 Consecutive Days |
@@ -48,7 +48,7 @@ The objective is simple:
 | Difficulty | Count |
 |------------|--------|
 | 🟢 Easy | 22 |
-| 🟡 Medium |54 |
+| 🟡 Medium |55 |
 | 🔴 Hard | 23 |
 
 ```text
@@ -62,9 +62,9 @@ The objective is simple:
 ```text
 365 Day Challenge
 
-█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
+█████████████████░░░░░░░░░░░░░░░░░░░░░░
 
-99/ 365 Days Completed
+100/ 365 Days Completed
 ```
 ## 🔥 Current Streak
 
@@ -73,7 +73,7 @@ The objective is simple:
 
 ████████████████████████████████████████
 
-99 Consecutive Days
+100 Consecutive Days
 ```
 
 ## 📚 Topic Coverage
@@ -156,7 +156,7 @@ The objective is simple:
 | First 25 Problems | ✅ |
 | First 50 Problems | ✅ |
 | First 65 Problems | ✅ |
-| First 100 Problems | 🚀 In Progress |
+| First 100 Problems | ✅ |
 | First 150 Problems | 🎯 Target |
 | First 200 Problems | 🎯 Target |
 | 365 Day Challenge | 🏆 Ultimate Goal |
@@ -167,7 +167,7 @@ The objective is simple:
 - [x] Complete First 25 POTD
 - [x] Complete First 50 POTD
 - [x] Reach 65 Day Streak
-- [ ] Reach 100 Problems
+- [x] Reach 100 Problems
 - [ ] Reach 150 Problems
 - [ ] Reach 200 Problems
 - [ ] Complete 365 Day Challenge
@@ -228,7 +228,7 @@ Every solution contains:
 
 ## 📊 Repository Highlights
 
-✔ 99 Daily Problems Solved
+✔ 100 Daily Problems Solved
 
 ✔ Easy → Medium → Hard Coverage
 
