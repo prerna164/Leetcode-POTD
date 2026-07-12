@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 100 Days              |
-| ✅ Problems Solved | 100                  |
+| 🔥 Current Streak | 101 Days              |
+| ✅ Problems Solved | 101                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -16,9 +16,9 @@
 ```text
 365 Day Challenge
 
-█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░
+███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-100 / 365 Days Completed
+101 / 365 Days Completed
 
 ```
 
@@ -127,6 +127,7 @@
 | 98 | 2026-07-09 | Path Existence Queries in a Difference-Bounded Graph |  Array, Graph, Two Pointers, Disjoint Set Union (DSU) | Medium |
 | 99 | 2026-07-10 | Path Existence Queries in a  Graph II | Array, Binary Lifting, Sparse Table, Binary Search, Graph | Hard |
 | 100 | 2026-07-11 | Count the Number of Complete Connected Components | Graph, Breadth-First Search (BFS), Depth-First Search (DFS), Graph Theory | Medium |
+| 101 | 2026-07-12 | Array Rank Transform | Array, Hash Table, Sorting | Easy |
 
 ---
 
@@ -145,7 +146,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 22    |
+| 🟢 Easy    | 23    |
 | 🟡 Medium  | 55    |
 | 🔴 Hard    | 23    |
 
