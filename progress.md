@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 102 Days              |
-| ✅ Problems Solved | 102                  |
+| 🔥 Current Streak | 103 Days              |
+| ✅ Problems Solved | 103                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-102 / 365 Days Completed
+103 / 365 Days Completed
 
 ```
 
@@ -129,6 +129,7 @@
 | 100 | 2026-07-11 | Count the Number of Complete Connected Components | Graph, Breadth-First Search (BFS), Depth-First Search (DFS), Graph Theory | Medium |
 | 101 | 2026-07-12 | Array Rank Transform | Array, Hash Table, Sorting | Easy |
 | 102 | 2026-07-13 | Sequential Digits | Math, Enumeration | Medium |
+| 103 | 2026-07-14 | Find the Number of Subsequences With Equal GCD | Dynamic Programming, Math, Number Theory | Hard |
 
 ---
 
@@ -149,7 +150,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 23    |
 | 🟡 Medium  | 56    |
-| 🔴 Hard    | 23    |
+| 🔴 Hard    | 24    |
 
 ---
 
