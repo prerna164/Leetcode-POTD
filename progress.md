@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 103 Days              |
-| ✅ Problems Solved | 103                  |
+| 🔥 Current Streak | 104 Days              |
+| ✅ Problems Solved | 104                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-103 / 365 Days Completed
+104 / 365 Days Completed
 
 ```
 
@@ -130,6 +130,7 @@
 | 101 | 2026-07-12 | Array Rank Transform | Array, Hash Table, Sorting | Easy |
 | 102 | 2026-07-13 | Sequential Digits | Math, Enumeration | Medium |
 | 103 | 2026-07-14 | Find the Number of Subsequences With Equal GCD | Dynamic Programming, Math, Number Theory | Hard |
+| 104 | 2026-07-15 | GCD of Sums of First N Odd and Even Numbers | Math, Number Theory | Easy |
 
 ---
 
@@ -148,7 +149,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 23    |
+| 🟢 Easy    | 24    |
 | 🟡 Medium  | 56    |
 | 🔴 Hard    | 24    |
 
