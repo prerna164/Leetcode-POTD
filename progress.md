@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 107 Days              |
-| ✅ Problems Solved | 107                  |
+| 🔥 Current Streak | 108 Days              |
+| ✅ Problems Solved | 108                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-107 / 365 Days Completed
+108 / 365 Days Completed
 
 ```
 
@@ -134,6 +134,7 @@
 | 105 | 2026-07-16 | Sum of Pairwise GCD of Sorted prefixGcd | Array, Math, Number Theory, Two Pointers, Sorting | Medium |
 | 106 | 2026-07-17 | Sorted GCD Pair Queries | Array, Math, Number Theory, Prefix Sum, Binary Search | Hard |
 | 107 | 2026-07-18 | Find Greatest Common Divisor of Array Extremes | Array, Math, Number Theory | Easy |
+| 108 | 2026-07-19 | Smallest Subsequence of Distinct Characters | String, Stack, Greedy, Monotonic Stack | Medium |
 
 ---
 
@@ -153,7 +154,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 25    |
-| 🟡 Medium  | 57    |
+| 🟡 Medium  | 58    |
 | 🔴 Hard    | 25    |
 
 ---
