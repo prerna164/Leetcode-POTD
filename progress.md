@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 110 Days              |
-| ✅ Problems Solved | 110                  |
+| 🔥 Current Streak | 111 Days              |
+| ✅ Problems Solved | 111                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-110 / 365 Days Completed
+111 / 365 Days Completed
 
 ```
 
@@ -137,7 +137,7 @@
 | 108 | 2026-07-19 | Smallest Subsequence of Distinct Characters | String, Stack, Greedy, Monotonic Stack | Medium |
 | 109 | 2026-07-20 | Shift 2D Grid | Array, Matrix, Simulation | Easy |
 | 110 | 2026-07-21 | Maximize Active Section with Trade I | String, Two Pointers, Greedy, Array | Medium |
-
+| 111 | 2026-07-22 | Maximize Active Section with Trade II | Array, String, Binary Search, Sparse Table, Range Minimum/Maximum Query | Hard |
 ---
 
 ## 🏆 Milestones
@@ -157,7 +157,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 26    |
 | 🟡 Medium  | 59    |
-| 🔴 Hard    | 25    |
+| 🔴 Hard    | 26    |
 
 ---
 
