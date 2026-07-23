@@ -35,8 +35,8 @@ The objective is simple:
 
 | Metric | Value |
 |---------|--------|
-| 🔥 Current Streak | 108 Days |
-| ✅ Problems Solved | 108     |
+| 🔥 Current Streak | 109 Days |
+| ✅ Problems Solved | 109     |
 | 📅 Started On | March 30,2026 |
 | 💻 Primary Language | C++ |
 | 🎯 Goal | 365 Consecutive Days |
@@ -47,7 +47,7 @@ The objective is simple:
 
 | Difficulty | Count |
 |------------|--------|
-| 🟢 Easy | 25 |
+| 🟢 Easy | 26 |
 | 🟡 Medium |58 |
 | 🔴 Hard | 25 |
 
@@ -64,7 +64,7 @@ The objective is simple:
 
 █████████████████░░░░░░░░░░░░░░░░░░░░░░
 
-108 / 365 Days Completed
+109 / 365 Days Completed
 ```
 ## 🔥 Current Streak
 
@@ -73,7 +73,7 @@ The objective is simple:
 
 ████████████████████████████████████████
 
-108 Consecutive Days
+109 Consecutive Days
 ```
 
 ## 📚 Topic Coverage
@@ -228,7 +228,7 @@ Every solution contains:
 
 ## 📊 Repository Highlights
 
-✔ 108 Daily Problems Solved
+✔ 109 Daily Problems Solved
 
 ✔ Easy → Medium → Hard Coverage
 
