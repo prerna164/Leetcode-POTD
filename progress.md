@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 109 Days              |
-| ✅ Problems Solved | 109                  |
+| 🔥 Current Streak | 110 Days              |
+| ✅ Problems Solved | 110                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-109 / 365 Days Completed
+110 / 365 Days Completed
 
 ```
 
@@ -136,6 +136,7 @@
 | 107 | 2026-07-18 | Find Greatest Common Divisor of Array Extremes | Array, Math, Number Theory | Easy |
 | 108 | 2026-07-19 | Smallest Subsequence of Distinct Characters | String, Stack, Greedy, Monotonic Stack | Medium |
 | 109 | 2026-07-20 | Shift 2D Grid | Array, Matrix, Simulation | Easy |
+| 110 | 2026-07-21 | Maximize Active Section with Trade I | String, Two Pointers, Greedy, Array | Medium |
 
 ---
 
@@ -155,7 +156,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 26    |
-| 🟡 Medium  | 58    |
+| 🟡 Medium  | 59    |
 | 🔴 Hard    | 25    |
 
 ---
