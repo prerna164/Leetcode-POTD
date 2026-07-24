@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 111 Days              |
-| ✅ Problems Solved | 111                  |
+| 🔥 Current Streak | 112 Days              |
+| ✅ Problems Solved | 112                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-111 / 365 Days Completed
+112 / 365 Days Completed
 
 ```
 
@@ -138,6 +138,8 @@
 | 109 | 2026-07-20 | Shift 2D Grid | Array, Matrix, Simulation | Easy |
 | 110 | 2026-07-21 | Maximize Active Section with Trade I | String, Two Pointers, Greedy, Array | Medium |
 | 111 | 2026-07-22 | Maximize Active Section with Trade II | Array, String, Binary Search, Sparse Table, Range Minimum/Maximum Query | Hard |
+| 112 | 2026-07-23 | Number of Unique XOR Triplet I | Array, Bit Manipulation, Math | Medium |
+
 ---
 
 ## 🏆 Milestones
@@ -156,7 +158,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 26    |
-| 🟡 Medium  | 59    |
+| 🟡 Medium  | 60    |
 | 🔴 Hard    | 26    |
 
 ---
