@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 113 Days              |
-| ✅ Problems Solved | 113                  |
+| 🔥 Current Streak | 114 Days              |
+| ✅ Problems Solved | 114                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-113 / 365 Days Completed
+114 / 365 Days Completed
 
 ```
 
@@ -140,6 +140,7 @@
 | 111 | 2026-07-22 | Maximize Active Section with Trade II | Array, String, Binary Search, Sparse Table, Range Minimum/Maximum Query | Hard |
 | 112 | 2026-07-23 | Number of Unique XOR Triplet I | Array, Bit Manipulation, Math | Medium |
 | 113 | 2026-07-24 | Number of Unique XOR Triplet II | Array, Bit Manipulation, Hash Table | Medium |
+| 114 | 2026-07-25 | Maximum Product of Two Digits | Math, Greedy | Easy |
 
 ---
 
@@ -158,7 +159,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 26    |
+| 🟢 Easy    | 27    |
 | 🟡 Medium  | 61    |
 | 🔴 Hard    | 26    |
 
