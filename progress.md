@@ -144,7 +144,7 @@
 | 115 | 2026-07-26 | Maximum Product of Three Numbers | Array, Math, Sorting | Easy |
 | 116 | 2026-07-27 | Maximum Product of Two Elements in an Array | Array, Math, Sorting | Easy |
 | 117 | 2026-07-28 | Smallest Palindromic Rearrangement I | String, Hash Table, Greedy, Sorting | Medium |
-
+| 118 | 2026-07-29 | Smallest Palindromic Rearrangement II | Hash Table, Math, String, Combinatorics, Counting, Greedy | Hard |
 
 ---
 
@@ -165,7 +165,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 29    |
 | 🟡 Medium  | 62    |
-| 🔴 Hard    | 26    |
+| 🔴 Hard    | 27    |
 
 ---
 
