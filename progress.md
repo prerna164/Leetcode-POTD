@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 117 Days              |
-| ✅ Problems Solved | 117                  |
+| 🔥 Current Streak | 119 Days              |
+| ✅ Problems Solved | 119                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-117 / 365 Days Completed
+119 / 365 Days Completed
 
 ```
 
@@ -145,6 +145,7 @@
 | 116 | 2026-07-27 | Maximum Product of Two Elements in an Array | Array, Math, Sorting | Easy |
 | 117 | 2026-07-28 | Smallest Palindromic Rearrangement I | String, Hash Table, Greedy, Sorting | Medium |
 | 118 | 2026-07-29 | Smallest Palindromic Rearrangement II | Hash Table, Math, String, Combinatorics, Counting, Greedy | Hard |
+| 119 | 2026-07-30 | Minimum Number of Pushes to Type Word I | Math, String, Greedy | Easy |
 
 ---
 
@@ -163,7 +164,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 29    |
+| 🟢 Easy    | 30    |
 | 🟡 Medium  | 62    |
 | 🔴 Hard    | 27    |
 
