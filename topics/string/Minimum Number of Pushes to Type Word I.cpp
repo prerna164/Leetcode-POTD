@@ -17,7 +17,7 @@ Key Observations:
    - The second letter assigned to a key requires 2 pushes.
    - The third letter requires 3 pushes, and the fourth requires 4 pushes.
 
-2. Greedy Allocation for Distinct Letters:
+2 . Greedy Allocation for Distinct Letters:
    - Since all letters in `word` are distinct, each letter appears exactly once.
    - To minimize total pushes, we should fill the 1st position (1 push) on all 8 keys first.
    - If there are more than 8 letters, we fill the 2nd position (2 pushes) on all 8 keys next.

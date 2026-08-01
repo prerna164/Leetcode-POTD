@@ -146,7 +146,7 @@
 | 117 | 2026-07-28 | Smallest Palindromic Rearrangement I | String, Hash Table, Greedy, Sorting | Medium |
 | 118 | 2026-07-29 | Smallest Palindromic Rearrangement II | Hash Table, Math, String, Combinatorics, Counting, Greedy | Hard |
 | 119 | 2026-07-30 | Minimum Number of Pushes to Type Word I | Math, String, Greedy | Easy |
-
+| 120 | 2026-07-31 | Minimum Number of Pushes to Type Word II | Hash Table, String, Greedy, Sorting, Counting | Medium |
 ---
 
 ## 🏆 Milestones
@@ -165,7 +165,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 30    |
-| 🟡 Medium  | 62    |
+| 🟡 Medium  | 63    |
 | 🔴 Hard    | 27    |
 
 ---
