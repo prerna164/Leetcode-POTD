@@ -149,6 +149,7 @@
 | 120 | 2026-07-31 | Minimum Number of Pushes to Type Word II | Hash Table, String, Greedy, Sorting, Counting | Medium |
 | 121 | 2026-08-01 | Smallest Palindromic Rearrangement I | String, Hash Table, Greedy, Sorting | Medium |
 | 122 | 2026-08-02 | Stone Game | Array, Math, Dynamic Programming, Game Theory | Medium |
+| 123 | 2026-08-03 III | Stone Game | Array, Math, Dynamic Programming, Game Theory | Hard |
 ---
 
 ## 🏆 Milestones
@@ -168,7 +169,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 30    |
 | 🟡 Medium  | 65    |
-| 🔴 Hard    | 27    |
+| 🔴 Hard    | 28    |
 
 ---
 
