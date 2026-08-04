@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 121 Days              |
-| ✅ Problems Solved | 121                  |
+| 🔥 Current Streak | 124 Days              |
+| ✅ Problems Solved | 124                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-121 / 365 Days Completed
+124 / 365 Days Completed
 
 ```
 
@@ -149,7 +149,8 @@
 | 120 | 2026-07-31 | Minimum Number of Pushes to Type Word II | Hash Table, String, Greedy, Sorting, Counting | Medium |
 | 121 | 2026-08-01 | Smallest Palindromic Rearrangement I | String, Hash Table, Greedy, Sorting | Medium |
 | 122 | 2026-08-02 | Stone Game | Array, Math, Dynamic Programming, Game Theory | Medium |
-| 123 | 2026-08-03 III | Stone Game | Array, Math, Dynamic Programming, Game Theory | Hard |
+| 123 | 2026-08-03 | Stone Game III | Array, Math, Dynamic Programming, Game Theory | Hard |
+| 124 | 2026-08-04 | Find Missing Elements in Range |  Array, Hash Table, Sorting | Easy |
 ---
 
 ## 🏆 Milestones
@@ -167,7 +168,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 30    |
+| 🟢 Easy    | 31    |
 | 🟡 Medium  | 65    |
 | 🔴 Hard    | 28    |
 
