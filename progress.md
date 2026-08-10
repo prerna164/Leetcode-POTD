@@ -151,6 +151,8 @@
 | 122 | 2026-08-02 | Stone Game | Array, Math, Dynamic Programming, Game Theory | Medium |
 | 123 | 2026-08-03 | Stone Game III | Array, Math, Dynamic Programming, Game Theory | Hard |
 | 124 | 2026-08-04 | Find Missing Elements in Range |  Array, Hash Table, Sorting | Easy |
+| 125 | 2026-08-05 | Remove Methods From Projects | Depth-First Search, Breadth-First Search, Graph, Directed Graph | Medium |
+| 126 | 2026-08-06 | Smallest Divisible Digit Product I |  Math, Enumeration | Easy |
 ---
 
 ## 🏆 Milestones
@@ -168,8 +170,8 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 31    |
-| 🟡 Medium  | 65    |
+| 🟢 Easy    | 32    |
+| 🟡 Medium  | 66    |
 | 🔴 Hard    | 28    |
 
 ---
