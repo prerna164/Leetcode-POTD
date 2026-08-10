@@ -153,7 +153,9 @@
 | 124 | 2026-08-04 | Find Missing Elements in Range |  Array, Hash Table, Sorting | Easy |
 | 125 | 2026-08-05 | Remove Methods From Projects | Depth-First Search, Breadth-First Search, Graph, Directed Graph | Medium |
 | 126 | 2026-08-06 | Smallest Divisible Digit Product I |  Math, Enumeration | Easy |
-| 124 | 2026-08-07 | Smallest Divisible Digit Product II | String, Greedy, Math, Number Theory, Digit DP | Hard |
+| 127 | 2026-08-07 | Smallest Divisible Digit Product II | String, Greedy, Math, Number Theory, Digit DP | Hard |
+| 128 | 2026-08-08 | Find the Lexicographically Smallest Valid Sequence | Two Pointers, String, Dynamic Programming, Greedy | Medium |
+
 ---
 
 ## 🏆 Milestones
@@ -172,7 +174,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 32    |
-| 🟡 Medium  | 66    |
+| 🟡 Medium  | 67    |
 | 🔴 Hard    | 29    |
 
 ---
