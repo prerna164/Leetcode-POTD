@@ -49,7 +49,7 @@ The objective is simple:
 |------------|--------|
 | 🟢 Easy | 32 |
 | 🟡 Medium |66 |
-| 🔴 Hard | 28 |
+| 🔴 Hard | 29 |
 
 ```text
 🟢 Easy      ████████████

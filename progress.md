@@ -153,6 +153,7 @@
 | 124 | 2026-08-04 | Find Missing Elements in Range |  Array, Hash Table, Sorting | Easy |
 | 125 | 2026-08-05 | Remove Methods From Projects | Depth-First Search, Breadth-First Search, Graph, Directed Graph | Medium |
 | 126 | 2026-08-06 | Smallest Divisible Digit Product I |  Math, Enumeration | Easy |
+| 124 | 2026-08-07 | Smallest Divisible Digit Product II | String, Greedy, Math, Number Theory, Digit DP | Hard |
 ---
 
 ## 🏆 Milestones
@@ -172,7 +173,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 32    |
 | 🟡 Medium  | 66    |
-| 🔴 Hard    | 28    |
+| 🔴 Hard    | 29    |
 
 ---
 
