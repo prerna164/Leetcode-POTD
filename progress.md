@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 129 Days              |
-| ✅ Problems Solved | 129                  |
+| 🔥 Current Streak | 130 Days              |
+| ✅ Problems Solved | 130                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-129 / 365 Days Completed
+130 / 365 Days Completed
 
 ```
 
@@ -156,6 +156,7 @@
 | 127 | 2026-08-07 | Smallest Divisible Digit Product II | String, Greedy, Math, Number Theory, Digit DP | Hard |
 | 128 | 2026-08-08 | Find the Lexicographically Smallest Valid Sequence | Two Pointers, String, Dynamic Programming, Greedy | Medium |
 | 129 | 2026-08-09 | Stone Game II | Array, Dynamic Programming, Math, Game Theory | Medium |
+| 130 | 2026-08-10 | Stone Game IV | Math, Dynamic Programming, Game Theory | Hard |
 
 ---
 
@@ -176,7 +177,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 32    |
 | 🟡 Medium  | 68    |
-| 🔴 Hard    | 29    |
+| 🔴 Hard    | 30    |
 
 ---
 
