@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 130 Days              |
-| ✅ Problems Solved | 130                  |
+| 🔥 Current Streak | 131 Days              |
+| ✅ Problems Solved | 131                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-130 / 365 Days Completed
+131 / 365 Days Completed
 
 ```
 
@@ -157,6 +157,7 @@
 | 128 | 2026-08-08 | Find the Lexicographically Smallest Valid Sequence | Two Pointers, String, Dynamic Programming, Greedy | Medium |
 | 129 | 2026-08-09 | Stone Game II | Array, Dynamic Programming, Math, Game Theory | Medium |
 | 130 | 2026-08-10 | Stone Game IV | Math, Dynamic Programming, Game Theory | Hard |
+| 131 | 2026-08-11 | Smallest Missing Integer Greater Than Sequential Prefix Sum |  Array, Hash Table, Sorting | Easy |
 
 ---
 
@@ -175,7 +176,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 32    |
+| 🟢 Easy    | 33    |
 | 🟡 Medium  | 68    |
 | 🔴 Hard    | 30    |
 
