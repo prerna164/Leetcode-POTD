@@ -158,6 +158,7 @@
 | 129 | 2026-08-09 | Stone Game II | Array, Dynamic Programming, Math, Game Theory | Medium |
 | 130 | 2026-08-10 | Stone Game IV | Math, Dynamic Programming, Game Theory | Hard |
 | 131 | 2026-08-11 | Smallest Missing Integer Greater Than Sequential Prefix Sum |  Array, Hash Table, Sorting | Easy |
+| 132 | 2026-08-12 | Length of Longest Subarray With at Most K Frequency | Array, Hash Table, Sliding Window | Medium |
 
 ---
 
@@ -177,7 +178,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 33    |
-| 🟡 Medium  | 68    |
+| 🟡 Medium  | 69    |
 | 🔴 Hard    | 30    |
 
 ---
