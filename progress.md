@@ -159,6 +159,7 @@
 | 130 | 2026-08-10 | Stone Game IV | Math, Dynamic Programming, Game Theory | Hard |
 | 131 | 2026-08-11 | Smallest Missing Integer Greater Than Sequential Prefix Sum |  Array, Hash Table, Sorting | Easy |
 | 132 | 2026-08-12 | Length of Longest Subarray With at Most K Frequency | Array, Hash Table, Sliding Window | Medium |
+| 133 | 2026-08-13 | Longest Substring of One Repeating Character | String, Segment Tree, Ordered Set | Hard |
 
 ---
 
@@ -179,7 +180,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 33    |
 | 🟡 Medium  | 69    |
-| 🔴 Hard    | 30    |
+| 🔴 Hard    | 31    |
 
 ---
 
