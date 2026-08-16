@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 131 Days              |
-| ✅ Problems Solved | 131                  |
+| 🔥 Current Streak | 135 Days              |
+| ✅ Problems Solved | 135                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-131 / 365 Days Completed
+135 / 365 Days Completed
 
 ```
 
@@ -161,6 +161,7 @@
 | 132 | 2026-08-12 | Length of Longest Subarray With at Most K Frequency | Array, Hash Table, Sliding Window | Medium |
 | 133 | 2026-08-13 | Longest Substring of One Repeating Character | String, Segment Tree, Ordered Set | Hard |
 | 134 | 2026-08-14 | Maximum Length Substring With Two Occurrences |  Hash Table, String, Sliding Window | Easy |
+| 135 | 2026-08-15 | Longest Subsequence With Non-Zero Bitwise XOR |  Array, Bit Manipulation, Greedy | Medium |
 
 ---
 
@@ -180,7 +181,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 34    |
-| 🟡 Medium  | 69    |
+| 🟡 Medium  | 70    |
 | 🔴 Hard    | 31    |
 
 ---
