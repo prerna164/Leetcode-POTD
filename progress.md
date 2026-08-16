@@ -160,6 +160,7 @@
 | 131 | 2026-08-11 | Smallest Missing Integer Greater Than Sequential Prefix Sum |  Array, Hash Table, Sorting | Easy |
 | 132 | 2026-08-12 | Length of Longest Subarray With at Most K Frequency | Array, Hash Table, Sliding Window | Medium |
 | 133 | 2026-08-13 | Longest Substring of One Repeating Character | String, Segment Tree, Ordered Set | Hard |
+| 134 | 2026-08-14 | Maximum Length Substring With Two Occurrences |  Hash Table, String, Sliding Window | Easy |
 
 ---
 
@@ -178,7 +179,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 33    |
+| 🟢 Easy    | 34    |
 | 🟡 Medium  | 69    |
 | 🔴 Hard    | 31    |
 
