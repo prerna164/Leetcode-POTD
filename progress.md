@@ -164,6 +164,7 @@
 | 135 | 2026-08-15 | Longest Subsequence With Non-Zero Bitwise XOR |  Array, Bit Manipulation, Greedy | Medium |
 | 136 | 2026-08-16 | Stone Game IX |  Array, Math, Greedy, Game Theory | Medium |
 | 137 | 2026-08-17 | tone Game V | Array, Math, Dynamic Programming, Game Theory | Hard |
+| 138 | 2026-08-18 | Largest Almost Missing Integer |  Array, Hash Table, Counting | Easy |
 
 ---
 
@@ -182,7 +183,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 34    |
+| 🟢 Easy    | 35    |
 | 🟡 Medium  | 71    |
 | 🔴 Hard    | 32    |
 
