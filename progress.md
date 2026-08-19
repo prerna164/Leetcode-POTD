@@ -163,6 +163,7 @@
 | 134 | 2026-08-14 | Maximum Length Substring With Two Occurrences |  Hash Table, String, Sliding Window | Easy |
 | 135 | 2026-08-15 | Longest Subsequence With Non-Zero Bitwise XOR |  Array, Bit Manipulation, Greedy | Medium |
 | 136 | 2026-08-16 | Stone Game IX |  Array, Math, Greedy, Game Theory | Medium |
+| 137 | 2026-08-17 | tone Game V | Array, Math, Dynamic Programming, Game Theory | Hard |
 
 ---
 
@@ -183,7 +184,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 34    |
 | 🟡 Medium  | 71    |
-| 🔴 Hard    | 31    |
+| 🔴 Hard    | 32    |
 
 ---
 
