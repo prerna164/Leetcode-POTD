@@ -165,6 +165,7 @@
 | 136 | 2026-08-16 | Stone Game IX |  Array, Math, Greedy, Game Theory | Medium |
 | 137 | 2026-08-17 | tone Game V | Array, Math, Dynamic Programming, Game Theory | Hard |
 | 138 | 2026-08-18 | Largest Almost Missing Integer |  Array, Hash Table, Counting | Easy |
+| 139 | 2026-08-19 | Cinema Seat Allocation | Array, Hash Table, Bit Manipulation, Greedy | Medium |
 
 ---
 
@@ -184,7 +185,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 35    |
-| 🟡 Medium  | 71    |
+| 🟡 Medium  | 72    |
 | 🔴 Hard    | 32    |
 
 ---
