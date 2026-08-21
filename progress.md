@@ -166,6 +166,7 @@
 | 137 | 2026-08-17 | tone Game V | Array, Math, Dynamic Programming, Game Theory | Hard |
 | 138 | 2026-08-18 | Largest Almost Missing Integer |  Array, Hash Table, Counting | Easy |
 | 139 | 2026-08-19 | Cinema Seat Allocation | Array, Hash Table, Bit Manipulation, Greedy | Medium |
+| 140 | 2026-08-20 | Distribute Elements Into Two Arrays I | Array, Simulation | Easy |
 
 ---
 
@@ -184,7 +185,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 35    |
+| 🟢 Easy    | 36    |
 | 🟡 Medium  | 72    |
 | 🔴 Hard    | 32    |
 
