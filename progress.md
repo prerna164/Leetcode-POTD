@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 135 Days              |
-| ✅ Problems Solved | 135                  |
+| 🔥 Current Streak | 140 Days              |
+| ✅ Problems Solved | 140                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-135 / 365 Days Completed
+140 / 365 Days Completed
 
 ```
 
