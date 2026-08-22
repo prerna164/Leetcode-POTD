@@ -167,6 +167,7 @@
 | 138 | 2026-08-18 | Largest Almost Missing Integer |  Array, Hash Table, Counting | Easy |
 | 139 | 2026-08-19 | Cinema Seat Allocation | Array, Hash Table, Bit Manipulation, Greedy | Medium |
 | 140 | 2026-08-20 | Distribute Elements Into Two Arrays I | Array, Simulation | Easy |
+| 141 | 2026-08-21 | Kth Smallest Amount With Single Denomination Combination | Array, Math, Binary Search, Bit Manipulation, Inclusion-Exclusion Principle, Number Theory | Hard |
 
 ---
 
@@ -187,7 +188,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 36    |
 | 🟡 Medium  | 72    |
-| 🔴 Hard    | 32    |
+| 🔴 Hard    | 33    |
 
 ---
 
