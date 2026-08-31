@@ -170,6 +170,7 @@
 | 141 | 2026-08-21 | Kth Smallest Amount With Single Denomination Combination | Array, Math, Binary Search, Bit Manipulation, Inclusion-Exclusion Principle, Number Theory | Hard |
 | 142 | 2026-08-22 | Check Divisibility by Digit Sum and Product | Math, Implementation | Easy |
 | 143 | 2026-08-23 | Sum Game | Math, String, Game Theory, Greedy | Medium |
+| 144 | 2026-08-24 | Stone Game VIII | Array, Dynamic Programming, Math, Prefix Sum, Game Theory | Hard |
 ---
 
 ## 🏆 Milestones
@@ -189,7 +190,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 37    |
 | 🟡 Medium  | 73    |
-| 🔴 Hard    | 33    |
+| 🔴 Hard    | 34    |
 
 ---
 
