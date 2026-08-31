@@ -174,6 +174,7 @@
 | 145 | 2026-08-25 | Smallest Missing Multiple of K | Array, Hash Table | Easy |
 | 146 | 2026-08-26 | Shortest and Lexicographically Smallest Beautiful String | String, Sliding Window, Two Pointers | Easy |
 | 147 | 2026-08-27 | Lexicographically Smallest Permutation Strictly Greater Than Target | String, Backtracking, Greedy, Counting, Frequency Array | Medium |
+| 148 | 2026-08-28 | Lexicographically Smallest Palindromic Permutation Greater Than Target | String, Greedy, Palindrome, Backtracking, Counting | Hard |
 ---
 
 ## 🏆 Milestones
@@ -193,7 +194,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 39    |
 | 🟡 Medium  | 74    |
-| 🔴 Hard    | 34    |
+| 🔴 Hard    | 35    |
 
 ---
 
