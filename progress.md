@@ -171,6 +171,7 @@
 | 142 | 2026-08-22 | Check Divisibility by Digit Sum and Product | Math, Implementation | Easy |
 | 143 | 2026-08-23 | Sum Game | Math, String, Game Theory, Greedy | Medium |
 | 144 | 2026-08-24 | Stone Game VIII | Array, Dynamic Programming, Math, Prefix Sum, Game Theory | Hard |
+| 141 | 2026-08-25 | Smallest Missing Multiple of K | Array, Hash Table | Easy |
 ---
 
 ## 🏆 Milestones
@@ -188,7 +189,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 37    |
+| 🟢 Easy    | 38    |
 | 🟡 Medium  | 73    |
 | 🔴 Hard    | 34    |
 
