@@ -47,7 +47,7 @@ The objective is simple:
 
 | Difficulty | Count |
 |------------|--------|
-| 🟢 Easy | 38 |
+| 🟢 Easy | 39 |
 | 🟡 Medium |73 |
 | 🔴 Hard | 34 |
 
