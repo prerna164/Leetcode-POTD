@@ -175,6 +175,7 @@
 | 146 | 2026-08-26 | Shortest and Lexicographically Smallest Beautiful String | String, Sliding Window, Two Pointers | Easy |
 | 147 | 2026-08-27 | Lexicographically Smallest Permutation Strictly Greater Than Target | String, Backtracking, Greedy, Counting, Frequency Array | Medium |
 | 148 | 2026-08-28 | Lexicographically Smallest Palindromic Permutation Greater Than Target | String, Greedy, Palindrome, Backtracking, Counting | Hard |
+| 149 | 2026-08-239 |  Lexicographically Smallest Array by Swapping Elements | Array, Union Find, Sorting, Two Pointers | Medium |
 ---
 
 ## 🏆 Milestones
@@ -193,7 +194,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 39    |
-| 🟡 Medium  | 74    |
+| 🟡 Medium  | 75    |
 | 🔴 Hard    | 35    |
 
 ---
