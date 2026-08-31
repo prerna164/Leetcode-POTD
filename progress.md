@@ -173,6 +173,7 @@
 | 144 | 2026-08-24 | Stone Game VIII | Array, Dynamic Programming, Math, Prefix Sum, Game Theory | Hard |
 | 145 | 2026-08-25 | Smallest Missing Multiple of K | Array, Hash Table | Easy |
 | 146 | 2026-08-26 | Shortest and Lexicographically Smallest Beautiful String | String, Sliding Window, Two Pointers | Easy |
+| 147 | 2026-08-27 | Lexicographically Smallest Permutation Strictly Greater Than Target | String, Backtracking, Greedy, Counting, Frequency Array | Medium |
 ---
 
 ## 🏆 Milestones
@@ -191,7 +192,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 39    |
-| 🟡 Medium  | 73    |
+| 🟡 Medium  | 74    |
 | 🔴 Hard    | 34    |
 
 ---
