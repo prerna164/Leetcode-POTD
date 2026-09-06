@@ -179,6 +179,7 @@
 | 150 | 2026-08-30 | Removing Minimum and Maximum From Array | Array, Greedy, Math | Medium |
 | 151 | 2026-08-31 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Linked List, Two Pointers | Medium |
 | 152 | 2026-09-01 | Minimum Moves to Clean Classroom | Array, Breadth-First Search (BFS), Bit Manipulation, Matrix, Shortest Path | Hard |
+| 153 | 2026-09-02 | Construct Uniform Parity Array Construction I | Array, Math, Parity, Greedy | Easy |
 
 ---
 
@@ -197,7 +198,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 39    |
+| 🟢 Easy    | 40    |
 | 🟡 Medium  | 77    |
 | 🔴 Hard    | 36    |
 
