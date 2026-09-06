@@ -182,6 +182,7 @@
 | 153 | 2026-09-02 | Construct Uniform Parity Array Construction I | Array, Math, Parity, Greedy | Easy |
 | 154 | 2026-09-03 | Construct Uniform Parity Array Construction II | Array, Math, Greedy, Sorting | Medium |
 | 155 | 2026-09-04 | Smallest Stable Index I | Array, Prefix / Suffix Processing | Easy |
+| 156 | 2026-09-05 | Smallest Stable Index II | Array, Prefix / Suffix Processing | Medium |
 
 ---
 
@@ -201,7 +202,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 41    |
-| 🟡 Medium  | 78    |
+| 🟡 Medium  | 79    |
 | 🔴 Hard    | 36    |
 
 ---
