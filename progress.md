@@ -177,6 +177,7 @@
 | 148 | 2026-08-28 | Lexicographically Smallest Palindromic Permutation Greater Than Target | String, Greedy, Palindrome, Backtracking, Counting | Hard |
 | 149 | 2026-08-29 | Lexicographically Smallest Array by Swapping Elements | Array, Union Find, Sorting, Two Pointers | Medium |
 | 150 | 2026-08-30 | Removing Minimum and Maximum From Array | Array, Greedy, Math | Medium |
+| 151 | 2026-08-31 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Linked List, Two Pointers | Medium |
 ---
 
 ## 🏆 Milestones
@@ -195,7 +196,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 39    |
-| 🟡 Medium  | 76    |
+| 🟡 Medium  | 77    |
 | 🔴 Hard    | 35    |
 
 ---
