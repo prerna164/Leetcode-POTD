@@ -181,6 +181,7 @@
 | 152 | 2026-09-01 | Minimum Moves to Clean Classroom | Array, Breadth-First Search (BFS), Bit Manipulation, Matrix, Shortest Path | Hard |
 | 153 | 2026-09-02 | Construct Uniform Parity Array Construction I | Array, Math, Parity, Greedy | Easy |
 | 154 | 2026-09-03 | Construct Uniform Parity Array Construction II | Array, Math, Greedy, Sorting | Medium |
+| 155 | 2026-09-04 | Smallest Stable Index I | Array, Prefix / Suffix Processing | Easy |
 
 ---
 
@@ -199,7 +200,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 40    |
+| 🟢 Easy    | 41    |
 | 🟡 Medium  | 78    |
 | 🔴 Hard    | 36    |
 
