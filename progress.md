@@ -185,6 +185,7 @@
 | 156 | 2026-09-05 | Smallest Stable Index II | Array, Prefix / Suffix Processing | Medium |
 | 157 | 2026-09-06 | Distinct Subsequences | String, Dynamic Programming | Hard |
 | 158 | 2026-09-07 | Distinct Subsequences II | String, Dynamic Programming , Hash Table | Hard |
+| 159 | 2026-09-08 | Count Commas in Range | Math, Number Theory | Easy |
 
 ---
 
@@ -203,7 +204,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 41    |
+| 🟢 Easy    | 42    |
 | 🟡 Medium  | 81    |
 | 🔴 Hard    | 36    |
 
