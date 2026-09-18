@@ -187,7 +187,8 @@
 | 158 | 2026-09-07 | Distinct Subsequences II | String, Dynamic Programming , Hash Table | Hard |
 | 159 | 2026-09-08 | Count Commas in Range | Math, Number Theory | Easy |
 | 160 | 2026-09-09 | Total Number of Commas Used (Large N) | Math, Prefix Sums | Medium |
-| 161 | 2026-09-010 | Count Nodes Equal to Average of Subtree | Tree, Depth-First Search, Binary Tree | Medium |
+| 161 | 2026-09-10 | Count Nodes Equal to Average of Subtree | Tree, Depth-First Search, Binary Tree | Medium |
+| 162 | 2026-09-11 |  Unique Three-Digit Even Numbers | Array, Hash Table, Enumeration, Backtracking | Easy |
 
 ---
 
@@ -206,7 +207,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 42    |
+| 🟢 Easy    | 43    |
 | 🟡 Medium  | 83    |
 | 🔴 Hard    | 36    |
 
