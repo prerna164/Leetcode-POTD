@@ -191,6 +191,7 @@
 | 162 | 2026-09-11 |  Unique Three-Digit Even Numbers | Array, Hash Table, Enumeration, Backtracking | Easy |
 | 163 | 2026-09-12 | Maximum Score Non-Overlapping Intervals |  Array, Dynamic Programming, Binary Search, Sorting | Hard |
 | 164 | 2026-09-13 | Image Overlap | Array, Matrix, Hash Table | Medium |
+| 165 | 2026-09-14 | Rectangle Overlap | Math, Geometry | Easy |
 
 ---
 
@@ -209,7 +210,7 @@
 
 | Difficulty | Count |
 | ---------- | ----- |
-| 🟢 Easy    | 43    |
+| 🟢 Easy    | 44    |
 | 🟡 Medium  | 84    |
 | 🔴 Hard    | 37    |
 
