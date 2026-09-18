@@ -194,6 +194,7 @@
 | 165 | 2026-09-14 | Rectangle Overlap | Math, Geometry | Easy |
 | 166 | 2026-09-15 | Maximum Number of Non-overlapping Palindrome Substrings | String, Dynamic Programming, Greedy, Two Pointers | Hard |
 | 167 | 2026-09-16 | Number of Sets of K Non-Overlapping Line Segments | Math, Combinatorics, Dynamic Programming | Medium |
+| 168 | 2026-09-17 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Array, Hash Table, Binary Search, Sliding Window, Dynamic Programming, Prefix Sum | Medium |
 
 ---
 
@@ -213,7 +214,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 44    |
-| 🟡 Medium  | 85    |
+| 🟡 Medium  | 86    |
 | 🔴 Hard    | 38    |
 
 ---
