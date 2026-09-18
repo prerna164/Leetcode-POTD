@@ -1,8 +1,6 @@
 /*
-Problem: Count Nodes Equal to Average of Subtree
-Link: https://leetcode.com/problems/total-number-of-commas-used/description/?envType=daily-question&envId=2026-09-09
+Problem: Total Number of Commas Used (Large N)
 Difficulty: Medium
-
 Tags: Math, Prefix Sums
 
 Intuition:
