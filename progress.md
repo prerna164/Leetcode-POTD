@@ -189,6 +189,7 @@
 | 160 | 2026-09-09 | Total Number of Commas Used (Large N) | Math, Prefix Sums | Medium |
 | 161 | 2026-09-10 | Count Nodes Equal to Average of Subtree | Tree, Depth-First Search, Binary Tree | Medium |
 | 162 | 2026-09-11 |  Unique Three-Digit Even Numbers | Array, Hash Table, Enumeration, Backtracking | Easy |
+| 163 | 2026-09-12 | Maximum Score Non-Overlapping Intervals |  Array, Dynamic Programming, Binary Search, Sorting | Hard |
 
 ---
 
@@ -209,7 +210,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 43    |
 | 🟡 Medium  | 83    |
-| 🔴 Hard    | 36    |
+| 🔴 Hard    | 37    |
 
 ---
 
