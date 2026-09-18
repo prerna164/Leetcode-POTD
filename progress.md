@@ -4,8 +4,8 @@
 
 | Metric            | Value                |
 | ----------------- | -------------------- |
-| 🔥 Current Streak | 160 Days              |
-| ✅ Problems Solved | 160                  |
+| 🔥 Current Streak | 169 Days              |
+| ✅ Problems Solved | 169                  |
 | 📅 Started On     | March 30, 2026       |
 | 🎯 Goal           | 365 Consecutive Days |
 
@@ -18,7 +18,7 @@
 
 ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-160 / 365 Days Completed
+169 / 365 Days Completed
 
 ```
 
@@ -195,7 +195,7 @@
 | 166 | 2026-09-15 | Maximum Number of Non-overlapping Palindrome Substrings | String, Dynamic Programming, Greedy, Two Pointers | Hard |
 | 167 | 2026-09-16 | Number of Sets of K Non-Overlapping Line Segments | Math, Combinatorics, Dynamic Programming | Medium |
 | 168 | 2026-09-17 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Array, Hash Table, Binary Search, Sliding Window, Dynamic Programming, Prefix Sum | Medium |
-
+| 169 | 2026-09-18 | Maximum Number of Non-Overlapping Substrings | String, Greedy, Two Pointers, Prefix Sum / Interval Scheduling | Hard |
 ---
 
 ## 🏆 Milestones
@@ -215,7 +215,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 44    |
 | 🟡 Medium  | 86    |
-| 🔴 Hard    | 38    |
+| 🔴 Hard    | 39    |
 
 ---
 
