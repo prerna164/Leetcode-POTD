@@ -190,6 +190,7 @@
 | 161 | 2026-09-10 | Count Nodes Equal to Average of Subtree | Tree, Depth-First Search, Binary Tree | Medium |
 | 162 | 2026-09-11 |  Unique Three-Digit Even Numbers | Array, Hash Table, Enumeration, Backtracking | Easy |
 | 163 | 2026-09-12 | Maximum Score Non-Overlapping Intervals |  Array, Dynamic Programming, Binary Search, Sorting | Hard |
+| 164 | 2026-09-13 | Image Overlap | Array, Matrix, Hash Table | Medium |
 
 ---
 
@@ -209,7 +210,7 @@
 | Difficulty | Count |
 | ---------- | ----- |
 | 🟢 Easy    | 43    |
-| 🟡 Medium  | 83    |
+| 🟡 Medium  | 84    |
 | 🔴 Hard    | 37    |
 
 ---
