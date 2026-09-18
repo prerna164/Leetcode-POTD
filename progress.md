@@ -192,6 +192,7 @@
 | 163 | 2026-09-12 | Maximum Score Non-Overlapping Intervals |  Array, Dynamic Programming, Binary Search, Sorting | Hard |
 | 164 | 2026-09-13 | Image Overlap | Array, Matrix, Hash Table | Medium |
 | 165 | 2026-09-14 | Rectangle Overlap | Math, Geometry | Easy |
+| 166 | 2026-09-15 | Maximum Number of Non-overlapping Palindrome Substrings | String, Dynamic Programming, Greedy, Two Pointers | Hard |
 
 ---
 
@@ -212,7 +213,7 @@
 | ---------- | ----- |
 | 🟢 Easy    | 44    |
 | 🟡 Medium  | 84    |
-| 🔴 Hard    | 37    |
+| 🔴 Hard    | 38    |
 
 ---
 
